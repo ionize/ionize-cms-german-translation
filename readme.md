@@ -1,32 +1,32 @@
-#Readme for: Ionize CMS German Translation
+#ionize-cms-german-translation
+==============================
 
-Creator: MaddinXx  
-URL: http://www.impres-sign.com
+German translation pack for the CodeIgniter (1.7) based Content Management System ionize.
+
 
 ##Version
+=========
 
-For Ionize CMS Version: 0.9.7
+For ionize CMS version: 0.9.7
 
-##Changelog
-
-**27/11/2011**  
-* Updated readme.md file
-
-##Notes
-
-I am not responsible for any damage to your website.  
-I am not part of the official Ionize CMS team.
 
 ##Installation
+==============
 
-To install, just upload the whole folder "de" to: application/language
+The installation is easy as hell.  
+Just upload the whole **"de"** folder to *application/language* within your ionize site.  
+  
+You should enable it in the admin center afterwards.
 
-##Bugs/Issues
 
-I would really appreciate it, if you could report any bugs or issues which are present.  
-Together with you, we will create a perfect translation.  
-Thank you!
+##Notes
+=======
+
+Neither I am responsible for any damage to your website nor am I part of the official ionize CMS team.
+
 
 ##Support
+=========
 
-I don't provide support for the Ionize CMS itself. If the question is template related, feel free to ask.
+Please use the GitHub issues.  
+Thank you!
